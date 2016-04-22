@@ -1,3 +1,0 @@
-NewFile
-Change in File On Remote and download it into local
-file change on local and upload to remote
